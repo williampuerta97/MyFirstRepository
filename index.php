@@ -9,6 +9,8 @@
 	<h1>Mi primer proyecto en GITHUB</h1>
 	<p>Escribiendo texto desde vim de git</p>
 	<h2>Cambio realizado por Ernesto Campos</h2>
-	<h3> Madre mia guily<h4>
+	<h3> Madre mia guily</h3>
+	<h4>ampeta la paleta </h4>
+
 </body>
 </html>
